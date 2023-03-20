@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @illidandidnothignwrong a brazilian eletrical engineering student
-- 👀 I’m interested in mostly learning c++
-- 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on projects of games and eletronics stuff
+- 👋 Hi, I’m @illidandidnothignwrong a brazilian csc enthusiast
+- 👀 I’m interested in mostly learning c++, towards machine learning and security stuff
+- 🌱 I’m currently learning machine learning and cybersecf
 - 📫 How to reach me https://www.facebook.com/faustino.silva.90475/ you can message me on my facebok dm, i'm brazilian but i can understand english very well
 
 <!---
